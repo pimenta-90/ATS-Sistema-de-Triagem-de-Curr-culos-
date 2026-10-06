@@ -31,7 +31,9 @@ pip install google-genai pypdf python-dotenv
 Crie um arquivo chamado .env na mesma pasta do projeto e coloque as suas informações:
 
 GEMINI_API_KEY=cola_aqui_a_sua_chave_do_google_studio
+
 EMAIL_PARA_RECEBER_ANALISE_IA=seu_email@gmail.com
+
 SENHA_PROPRIA_EMAIL=sua_senha_de_aplicativo_do_gmail
 
 4. Rode o projeto!
